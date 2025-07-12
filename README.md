@@ -1,5 +1,9 @@
 # QuickCatenary_ForRTM
 <h3>【RTM向け】「らくらく架線セット」簡単に架線が張れます</h3>
+<h5>＊鯖などの関係でとりあえず入れる方用＊</h5>
+【必須】KaizPatch v1.4.0~<br>
+【必須】NGTO Builder v1.10~<br>
+【規約】RTM Wire51 Packと同一<br>
 
 <h5>＊概要＊</h5>
 <p></p>KaizPatchとNGTO Builderの機能を活かして、簡単に架線を張れるようにした、<br>
